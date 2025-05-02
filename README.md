@@ -21,16 +21,11 @@ Bootstrap: Utilized Bootstrap classes where necessary to enhance responsiveness,
 Responsiveness: Ensured that the website adapts well to mobile, tablet, and desktop screen sizes using media queries and Bootstrap’s grid system.
 
 🧑‍🤝‍🧑 Group Members
-[Your Name]
 
-[ANTOH KAISA]  EMAIL:    github: https://github.com/tonie123
+1. ANTOH KAISA     github: https://github.com/tonie123
 
-[PAULINE MWANGI]  EMaIL:polinmwangi6115@gmail.com   GITHUB: https://github.com/Bella-winter
+2. PAULINE MWANGI   GITHUB: https://github.com/Bella-winter
 
-[Teammate 3]
-
-[Teammate 4]
-(List all your group members here)
 
 📂 How to Run
 Clone the repository:
@@ -38,13 +33,14 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-group-username/portfolio-recreation.git
+git clone https://github.com/Bella-winter/GROUP-6_Web-dev_assignment.git
 Open the index.html file in any web browser.
 
 📤 Submission Details
 GitHub Repository: [Link to your GitHub repo]
 
 Submitted via: Google Form (weekly submission)
+We decided to submmit the assignment in the group since there is inavailability of the form for submission
 
 🧪 Evaluation Highlights
 Functionality: Fully meets the requirements.
