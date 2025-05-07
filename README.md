@@ -49,7 +49,7 @@ Code Quality: Clean, well-organized, and well-commented.
 
 Responsiveness: Mobile-first design using Bootstrap and media queries.
 
-Collaboration: All group members contributed.
+Collaboration: Only 2 members contributed to the assignment for the peer to peer 
 
 Creativity: Additional minor enhancements added to improve user experience where appropriate.
 
