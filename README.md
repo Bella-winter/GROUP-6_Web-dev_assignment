@@ -37,7 +37,7 @@ git clone https://github.com/Bella-winter/GROUP-6_Web-dev_assignment.git
 Open the index.html file in any web browser.
 
 📤 Submission Details
-GitHub Repository: [Link to your GitHub repo]
+GitHub Repository: [https://github.com/Bella-winter/GROUP-6_Web-dev_assignment.git]
 
 Submitted via: Google Form (weekly submission)
 We decided to submmit the assignment in the group since there is inavailability of the form for submission
